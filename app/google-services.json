@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105649490867",
+    "project_id": "soccer-fut-db43b",
+    "storage_bucket": "soccer-fut-db43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105649490867:android:884b9dee6477f520c219c6",
+        "android_client_info": {
+          "package_name": "cl.ipvgmatias.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQpwl8DTSin3ya5n8Vsz2nD_Zlt0mqgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

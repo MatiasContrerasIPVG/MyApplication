@@ -36,10 +36,11 @@
         android:layout_height="49dp"
         android:layout_marginStart="112dp"
         android:layout_marginEnd="113dp"
-        android:text="Ingresar"
+        android:text="Registrate"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="243dp" />
+        tools:layout_editor_absoluteY="242dp" />
 
     <Button
         android:id="@+id/button2"
@@ -47,11 +48,11 @@
         android:layout_height="63dp"
         android:layout_marginStart="69dp"
         android:layout_marginEnd="70dp"
-        android:layout_marginBottom="296dp"
-        android:text="Registrate aqui"
+        android:layout_marginBottom="332dp"
+        android:text="Ingresar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -72,7 +73,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="133dp"
         android:layout_marginEnd="134dp"
-        android:layout_marginBottom="392dp"
+        android:layout_marginBottom="500dp"
         android:text="¿Aun no tienes cuenta?"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -87,6 +88,7 @@
         android:layout_marginEnd="26dp"
         android:text="Si tienes problemas contactanos a contacto@app.com"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="212dp" />
+        tools:layout_editor_absoluteY="417dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
